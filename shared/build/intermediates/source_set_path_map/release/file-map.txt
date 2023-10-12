@@ -1,0 +1,9 @@
+com.techbyfloig.cubannotary.business.shared-pngs-0 /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/generated/res/pngs/release
+com.techbyfloig.cubannotary.business.shared-resValues-1 /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/generated/res/resValues/release
+com.techbyfloig.cubannotary.business.shared-mergeReleaseResources-2 /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.techbyfloig.cubannotary.business.shared-mergeReleaseResources-3 /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.techbyfloig.cubannotary.business.shared-merged_res-4 /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/intermediates/merged_res/release
+com.techbyfloig.cubannotary.business.shared-androidMain-5 /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/src/androidMain/res
+com.techbyfloig.cubannotary.business.shared-androidRelease-6 /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/src/androidRelease/res
+com.techbyfloig.cubannotary.business.shared-main-7 /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/src/main/res
+com.techbyfloig.cubannotary.business.shared-release-8 /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/src/release/res

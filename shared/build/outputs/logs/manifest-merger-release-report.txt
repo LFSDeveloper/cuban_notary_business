@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2938313568290861039.xml:2:13-83
+INJECTED from /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2938313568290861039.xml:2:13-83
+	package
+		INJECTED from /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2938313568290861039.xml
+	xmlns:android
+		ADDED from /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2938313568290861039.xml:2:23-81
+uses-sdk
+INJECTED from /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2938313568290861039.xml reason: use-sdk injection requested
+INJECTED from /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2938313568290861039.xml
+INJECTED from /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2938313568290861039.xml
+	android:targetSdkVersion
+		INJECTED from /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2938313568290861039.xml
+	android:minSdkVersion
+		INJECTED from /Users/LFlorinS/Documents/repos/CubanNotaryBusiness/shared/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest2938313568290861039.xml
